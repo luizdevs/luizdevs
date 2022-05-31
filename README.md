@@ -1,16 +1,15 @@
-### Hi there 👋
+## Salve! Sou Luiz, apaixonado em desenvolvimento 💚!
 
-<!--
-**luizdevs/luizdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png">
+  <img align="center" alt="React" height="30" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png">
+  <img align="center" alt="HTML" height="30" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png">
+  <img align="center" alt="CSS" height="30" src="https://cdn-icons-png.flaticon.com/128/732/732190.png">
+  <img align="center" alt="PHP" height="30" src="https://cdn-icons-png.flaticon.com/128/919/919830.png">
+  <img align="center" alt="Wordpress" height="30" src="https://cdn-icons-png.flaticon.com/128/174/174881.png">
+  <img align="center" alt="MySQL" height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png">
+</div>
+  
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
