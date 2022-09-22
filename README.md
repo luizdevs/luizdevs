@@ -21,6 +21,7 @@ Sempre aberto à novas possibilidades
 - <b>[Instituto Ubuntu](https://institutoubuntu.com)</b>
 - <b>[Pash - Plano Assistencial em Saúde Holística](https://pash.com.br)</b>
 - <b>[VGSTV - Esporte e entretenimento](https://vgstv.com.br)</b>
+- <b>[OAgregador](https://oagregador.com.br)</b>
 - <b>[Midwest Studios](https://midwest.studio)</b>
 - <b>[Classisvale](https://classisvale.com.br)</b>
 
