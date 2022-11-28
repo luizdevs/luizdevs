@@ -1,18 +1,10 @@
-## Salve! Sou Luiz, <br />apaixonado em código </> 💚
+## Saudações! Sou Luiz, <br />apaixonado em código </> 💚
 
-#
-
-Atualmente tenho <strong>25 anos</strong> e meus estudos em desenvolvimento se iniciaram aos <strong>13</strong>, logo após me encantar com as possibilidades.
-
-<br />
+Atualmente tenho <strong>26 anos</strong> e meus estudos em desenvolvimento se iniciaram aos <strong>13</strong>, logo após me encantar com as possibilidades.
 
 <i><b>É válida toda forma de amor</b></i>, e por isso amo tanto o `back-end` quanto o `front-end`. Sem guerras, sem preconceitos.
 
-<br />
-
-Falando em amor, não tenho condições de expressar meu amor por essas tecnologias chamadas <b>Laravel</b> e <b>React</b>, que juntinhas formam um time maravilhoso, trazendo o necessário para que eu possa resolver qualquer problema.
-
-<br />
+Não tenho condições de expressar o quanto gosto de trabalhar com essas tecnologias chamadas <b>Laravel</b> e <b>React</b>, que juntas formam um time maravilhoso, trazendo o necessário para que eu possa resolver qualquer problema.
 
 ### Empresas em que atuo
 Sempre aberto à novas possibilidades
@@ -39,7 +31,4 @@ Sempre aberto à novas possibilidades
   <img title="Wordpress" alt="Wordpress" height="30" src="https://cdn-icons-png.flaticon.com/128/174/174881.png" style="margin-right: 6px;">
   <img title="MySQL" alt="MySQL" height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" style="margin-right: 6px;">
 </div>
-  
-##
 
-</div>
