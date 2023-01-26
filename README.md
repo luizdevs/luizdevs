@@ -16,7 +16,8 @@ Sempre aberto à novas possibilidades
 - <b>[OAgregador](https://oagregador.com.br)</b>
 - <b>[Midwest Studios](https://midwest.studio)</b>
 - <b>[Classisvale](https://classisvale.com.br)</b>
-
+- <b>[Lar de Crianças Ceres](https://lardecriancasceres.com.br)</b>
+- 
 <br />
 
 ### Tecnologias que eu domino:
