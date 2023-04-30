@@ -17,7 +17,7 @@ Sempre aberto à novas possibilidades
 - <b>[Midwest Studios](https://midwest.studio)</b>
 - <b>[Classisvale](https://classisvale.com.br)</b>
 - <b>[Lar de Crianças Ceres](https://lardecriancasceres.com.br)</b>
-- 
+- <b>[Café Bambino](https:/cafebambino.com.br)</b>
 <br />
 
 ### Tecnologias que eu domino:
